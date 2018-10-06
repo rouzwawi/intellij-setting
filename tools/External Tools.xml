@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="Protractor test" description="Runs a protractor test for the open file" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="protractor" />
+      <option name="PARAMETERS" value="public/javascripts/test/protractor.conf.js --specs $FilePathRelativeToProjectRoot$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Java test" description="Runs a stweb java test form command line" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="npm" />
+      <option name="PARAMETERS" value="-s run dtest:java -- -play-id test-docker --specs $FileNameWithoutExtension$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
