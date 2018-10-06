@@ -47,12 +47,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="80751a" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="ATTR_INTERNAL_CALL_ID">
       <value>
         <option name="FOREGROUND" value="a2cff5" />
@@ -349,7 +344,7 @@
     <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="80751a" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -787,6 +782,7 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value />
     </option>
