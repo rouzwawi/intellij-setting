@@ -1,0 +1,162 @@
+<application>
+  <component name="libraryTable">
+    <library name="Bundled Protobuf Distribution">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7.10 virtualenv at ~/code/data/bigquery-upload/pyenv interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Python 2.7.10 virtualenv at ~/code/data/bq-uploader/pyenv interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Python 2.7.10 virtualenv at ~/code/data/data-qa/pyenv interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Python 2.7.10 virtualenv at ~/code/data/edgedocker/edgedocker-base/pyenv interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/code/data/edgedocker/edgedocker-base/pyenv/lib/python2.7" />
+        <root url="file://$USER_HOME$/code/data/edgedocker/edgedocker-base/pyenv/lib/python2.7/lib-dynload" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/code/data/edgedocker/edgedocker-base/pyenv/lib/python2.7/site-packages" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/python_stubs/-1476546027" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/code/data/edgedocker/edgedocker-base/pyenv/lib/python2.7" />
+        <root url="file://$USER_HOME$/code/data/edgedocker/edgedocker-base/pyenv/lib/python2.7/lib-dynload" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/code/data/edgedocker/edgedocker-base/pyenv/lib/python2.7/site-packages" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/python_stubs/-1476546027" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7.10 virtualenv at ~/code/data/luigi-core/pyenv interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Python 2.7.10 virtualenv at ~/code/data/pipeline-hadoop-to-bigquery-runner/pyenv interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Python 2.7.10 virtualenv at ~/code/envs/intellij-luigi interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/code/envs/intellij-luigi/lib/python2.7" />
+        <root url="file://$USER_HOME$/code/envs/intellij-luigi/lib/python2.7/lib-dynload" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/code/envs/intellij-luigi/lib/python2.7/site-packages" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/python_stubs/-340784055" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/code/envs/intellij-luigi/lib/python2.7" />
+        <root url="file://$USER_HOME$/code/envs/intellij-luigi/lib/python2.7/lib-dynload" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/code/envs/intellij-luigi/lib/python2.7/site-packages" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/python_stubs/-340784055" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7.10 virtualenv at ~/code/shed/luigi-hades/pyenv interpreter library">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7/site-packages/spotify_hades_luigi-0.0.1-py2.7.egg!/" />
+        <root url="jar://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7/site-packages/iso8601-0.1.11-py2.7.egg!/" />
+        <root url="file://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7/site-packages/luigi-2.2.0-py2.7.egg" />
+        <root url="file://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7/site-packages/python_daemon-2.1.1-py2.7.egg" />
+        <root url="file://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7/site-packages/tornado-4.4.2-py2.7-macosx-10.11-intel.egg" />
+        <root url="jar://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7/site-packages/backports_abc-0.4-py2.7.egg!/" />
+        <root url="file://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7/site-packages/certifi-2016.9.26-py2.7.egg" />
+        <root url="jar://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7/site-packages/singledispatch-3.4.0.3-py2.7.egg!/" />
+        <root url="file://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7/site-packages/six-1.10.0-py2.7.egg" />
+        <root url="file://$USER_HOME$/code/shed/luigi-hades/.eggs/lockfile-0.12.2-py2.7.egg" />
+        <root url="file://$USER_HOME$/code/shed/luigi-hades/.eggs/docutils-0.12-py2.7.egg" />
+        <root url="file://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7/site-packages/requests-2.11.1-py2.7.egg" />
+        <root url="file://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7" />
+        <root url="file://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7/lib-dynload" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/231701920" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7/site-packages/spotify_hades_luigi-0.0.1-py2.7.egg!/" />
+        <root url="jar://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7/site-packages/iso8601-0.1.11-py2.7.egg!/" />
+        <root url="file://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7/site-packages/luigi-2.2.0-py2.7.egg" />
+        <root url="file://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7/site-packages/python_daemon-2.1.1-py2.7.egg" />
+        <root url="file://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7/site-packages/tornado-4.4.2-py2.7-macosx-10.11-intel.egg" />
+        <root url="jar://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7/site-packages/backports_abc-0.4-py2.7.egg!/" />
+        <root url="file://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7/site-packages/certifi-2016.9.26-py2.7.egg" />
+        <root url="jar://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7/site-packages/singledispatch-3.4.0.3-py2.7.egg!/" />
+        <root url="file://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7/site-packages/six-1.10.0-py2.7.egg" />
+        <root url="file://$USER_HOME$/code/shed/luigi-hades/.eggs/lockfile-0.12.2-py2.7.egg" />
+        <root url="file://$USER_HOME$/code/shed/luigi-hades/.eggs/docutils-0.12-py2.7.egg" />
+        <root url="file://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7/site-packages/requests-2.11.1-py2.7.egg" />
+        <root url="file://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7" />
+        <root url="file://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7/lib-dynload" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/code/shed/luigi-hades/pyenv/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/231701920" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
+    <library name="scala-sdk-2.11.8" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.8.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/docs/scala-library-2.11.8-javadoc.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/docs/scala-reflect-2.11.8-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.11.8-sources.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
