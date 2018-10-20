@@ -1,4 +1,8 @@
 <code_scheme name="Default" version="173">
+  <JetCodeStyleSettings>
+    <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="10" />
+    <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="10" />
+  </JetCodeStyleSettings>
   <codeStyleSettings language="kotlin">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
