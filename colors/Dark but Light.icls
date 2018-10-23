@@ -14,6 +14,7 @@
     <option name="CARET_ROW_COLOR" value="ebfaff" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DELETED_LINES_COLOR" value="c7aaa9" />
+    <option name="DOCUMENTATION_COLOR" value="f7f7f7" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="848504" />
     <option name="FILESTATUS_MODIFIED" value="6897bb" />
@@ -589,6 +590,24 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="fffae7" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="7a7a7a" />
+        <option name="BACKGROUND" value="f9f9f9" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="5b5b5b" />
+        <option name="BACKGROUND" value="dbe8f7" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="5b5b5b" />
+        <option name="BACKGROUND" value="efefef" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
