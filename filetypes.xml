@@ -22,7 +22,8 @@
       <mapping pattern="broken-enum-specjson" type="PLAIN_TEXT" />
       <mapping pattern="2016-10-05T14" type="PLAIN_TEXT" />
       <mapping pattern="nodes" type="PLAIN_TEXT" />
-      <mapping pattern="SERVICE" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="http-router" type="PLAIN_TEXT" />
       <mapping pattern="Styx" type="PLAIN_TEXT" />
       <mapping pattern="styx" type="PLAIN_TEXT" />
       <mapping pattern="creek-service" type="PLAIN_TEXT" />
@@ -31,7 +32,7 @@
       <mapping pattern="notes" type="PLAIN_TEXT" />
       <mapping pattern="NOTICE" type="PLAIN_TEXT" />
       <mapping pattern="dashd" type="PLAIN_TEXT" />
-      <mapping pattern="http-router" type="PLAIN_TEXT" />
+      <mapping pattern="SERVICE" type="PLAIN_TEXT" />
       <mapping ext="glslf" type="PLAIN_TEXT" />
       <mapping ext="marker" type="PLAIN_TEXT" />
       <mapping ext="processor" type="SPI" />
