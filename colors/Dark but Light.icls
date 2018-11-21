@@ -236,7 +236,7 @@
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="cc7832" />
+        <option name="FOREGROUND" value="b4833c" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
@@ -812,6 +812,12 @@
     </option>
     <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
       <value />
+    </option>
+    <option name="KOTLIN_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="a10100" />
+        <option name="BACKGROUND" value="ffd1d5" />
+      </value>
     </option>
     <option name="LABEL">
       <value>
