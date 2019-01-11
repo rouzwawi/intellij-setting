@@ -8,6 +8,7 @@
     <option name="CUSTOM_SOFT_WRAP_INDENT" value="2" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="CARET_BLINKING_PERIOD" value="250" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
