@@ -1,9 +1,4 @@
 <scheme name="Rouz Dracula" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="10" />
-  <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="d6822" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -20,6 +15,7 @@
     <option name="METHOD_SEPARATORS_COLOR" value="4d4d4d" />
     <option name="MODIFIED_LINES_COLOR" value="7180" />
     <option name="NOTIFICATION_BACKGROUND" value="5c5c42" />
+    <option name="READONLY_BACKGROUND" value="282821" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="4d4d4d" />
@@ -32,7 +28,7 @@
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a6ffc5" />
+        <option name="FOREGROUND" value="89c49c" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -48,7 +44,7 @@
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="bbb529" />
+        <option name="FOREGROUND" value="cec973" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -120,8 +116,7 @@
     </option>
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="7bc192" />
-        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="FOREGROUND" value="89c49c" />
       </value>
     </option>
     <option name="CLASS_REFERENCE">
@@ -295,7 +290,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="cc7832" />
+        <option name="FOREGROUND" value="cca06b" />
       </value>
     </option>
     <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -306,11 +301,17 @@
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
+      <value>
+        <option name="EFFECT_COLOR" value="8f8f8f" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_STATIC_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="2c100" />
+        <option name="FOREGROUND" value="4ec155" />
       </value>
     </option>
     <option name="DEFAULT_TAG" baseAttributes="TEXT" />
@@ -432,6 +433,7 @@
     <option name="ENUM_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fdfffd" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
@@ -597,7 +599,7 @@
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c299d4" />
+        <option name="FOREGROUND" value="dab8e3" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -672,11 +674,6 @@
     <option name="JAVA_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="cc7832" />
-      </value>
-    </option>
-    <option name="JAVA_STRING">
-      <value>
-        <option name="FOREGROUND" value="a5c25c" />
       </value>
     </option>
     <option name="JAVA_VALID_STRING_ESCAPE">
@@ -938,11 +935,6 @@
         <option name="FOREGROUND" value="9373a5" />
       </value>
     </option>
-    <option name="PARAMETER_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
     <option name="PHP_CONSTANT">
       <value>
         <option name="FOREGROUND" value="9876aa" />
@@ -1042,11 +1034,6 @@
       <value>
         <option name="FOREGROUND" value="a5c261" />
         <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="REGEXP.BRACES">
@@ -1372,18 +1359,12 @@
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c299d4" />
+        <option name="FOREGROUND" value="bcace3" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="c299d4" />
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e9e3a4" />
@@ -1495,8 +1476,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="dff0ff" />
-        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="FOREGROUND" value="f0f8ff" />
+        <option name="BACKGROUND" value="282828" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -1578,7 +1559,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="480c48" />
+        <option name="BACKGROUND" value="5a5745" />
         <option name="ERROR_STRIPE_COLOR" value="ffcdff" />
       </value>
     </option>
