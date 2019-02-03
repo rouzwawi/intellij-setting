@@ -1568,6 +1568,11 @@
         <option name="BACKGROUND" value="5a647e" />
       </value>
     </option>
+    <option name="WRONG_REFERENCES_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ff4643" />
+      </value>
+    </option>
     <option name="XML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="d0d0ff" />
