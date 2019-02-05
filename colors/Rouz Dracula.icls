@@ -70,6 +70,14 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="BASH.HERE_DOC">
+      <value>
+        <option name="BACKGROUND" value="3e452e" />
+      </value>
+    </option>
+    <option name="BASH.INTERNAL_COMMAND" baseAttributes="BASH.EXTERNAL_COMMAND" />
     <option name="BNF_EXTERNAL">
       <value>
         <option name="FONT_TYPE" value="2" />
