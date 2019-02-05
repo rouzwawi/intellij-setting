@@ -1,4 +1,7 @@
 <scheme name="Rouz Dracula" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="CONSOLE_FONT_NAME" value="Input" />
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="33663e" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -11,7 +14,7 @@
     <option name="FILESTATUS_MODIFIED" value="6897bb" />
     <option name="FILESTATUS_UNKNOWN" value="d1675a" />
     <option name="GUTTER_BACKGROUND" value="313335" />
-    <option name="INDENT_GUIDE" value="4d4d4d" />
+    <option name="INDENT_GUIDE" value="404040" />
     <option name="LINE_NUMBERS_COLOR" value="888888" />
     <option name="METHOD_SEPARATORS_COLOR" value="4d4d4d" />
     <option name="MODIFIED_LINES_COLOR" value="267580" />
@@ -19,11 +22,13 @@
     <option name="READONLY_BACKGROUND" value="282821" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
-    <option name="RIGHT_MARGIN_COLOR" value="4d4d4d" />
+    <option name="RIGHT_MARGIN_COLOR" value="363636" />
+    <option name="SELECTED_INDENT_GUIDE" value="9c9c9c" />
     <option name="SELECTED_TEARLINE_COLOR" value="ffffff" />
     <option name="SELECTION_BACKGROUND" value="435c69" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="909090" />
+    <option name="VISUAL_INDENT_GUIDE" value="797979" />
     <option name="WHITESPACES" value="6e6e6e" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="c2b399" />
   </colors>
@@ -288,7 +293,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="75755f" />
+        <option name="FOREGROUND" value="6a8580" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -335,7 +340,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="cc9b66" />
+        <option name="FOREGROUND" value="94a8b4" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -346,7 +351,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="cec973" />
+        <option name="FOREGROUND" value="ada676" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -965,11 +970,6 @@
         <option name="FOREGROUND" value="c4b3a3" />
       </value>
     </option>
-    <option name="METHOD_DECLARATION_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ffc66d" />
-      </value>
-    </option>
     <option name="Map key">
       <value>
         <option name="FOREGROUND" value="d0d0ff" />
@@ -1539,7 +1539,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="bc9458" />
+        <option name="FOREGROUND" value="bca955" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1692,52 +1692,15 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="YAML_COMMENT">
+    <option name="YAML_ANCHOR">
       <value>
-        <option name="FOREGROUND" value="bc9458" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="YAML_SCALAR_DSTRING">
-      <value>
-        <option name="FOREGROUND" value="a5c261" />
-      </value>
-    </option>
-    <option name="YAML_SCALAR_KEY">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-      </value>
-    </option>
-    <option name="YAML_SCALAR_LIST">
-      <value>
-        <option name="FOREGROUND" value="a5c261" />
-      </value>
-    </option>
-    <option name="YAML_SCALAR_STRING">
-      <value>
-        <option name="FOREGROUND" value="a5c261" />
-      </value>
-    </option>
-    <option name="YAML_SCALAR_VALUE">
-      <value>
-        <option name="FOREGROUND" value="a5c261" />
+        <option name="FOREGROUND" value="84a49c" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="YAML_SCALAR_VALUE4">
       <value>
         <option name="FOREGROUND" value="e8d3d3" />
-      </value>
-    </option>
-    <option name="YAML_SIGN">
-      <value>
-        <option name="FOREGROUND" value="a5c261" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="YAML_TEXT">
-      <value>
-        <option name="FOREGROUND" value="a5c261" />
-        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="osmorc.attributeName">
