@@ -1,10 +1,11 @@
 <scheme name="Rouz Dracula" version="142" parent_scheme="Default">
   <colors>
-    <option name="ADDED_LINES_COLOR" value="d6822" />
+    <option name="ADDED_LINES_COLOR" value="33663e" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="2c3132" />
     <option name="CONSOLE_BACKGROUND_KEY" value="333333" />
+    <option name="DELETED_LINES_COLOR" value="949494" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="848504" />
     <option name="FILESTATUS_MODIFIED" value="6897bb" />
@@ -13,7 +14,7 @@
     <option name="INDENT_GUIDE" value="4d4d4d" />
     <option name="LINE_NUMBERS_COLOR" value="888888" />
     <option name="METHOD_SEPARATORS_COLOR" value="4d4d4d" />
-    <option name="MODIFIED_LINES_COLOR" value="7180" />
+    <option name="MODIFIED_LINES_COLOR" value="267580" />
     <option name="NOTIFICATION_BACKGROUND" value="5c5c42" />
     <option name="READONLY_BACKGROUND" value="282821" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
@@ -24,6 +25,7 @@
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="909090" />
     <option name="WHITESPACES" value="6e6e6e" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="c2b399" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -640,7 +642,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="33463a" />
+        <option name="BACKGROUND" value="2b332e" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
