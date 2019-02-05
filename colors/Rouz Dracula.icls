@@ -35,7 +35,7 @@
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="89c49c" />
+        <option name="FOREGROUND" value="a0dcb3" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -54,7 +54,7 @@
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="91e1ae" />
+        <option name="FOREGROUND" value="a0dcb3" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -168,12 +168,12 @@
     </option>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="7bc192" />
+        <option name="FOREGROUND" value="a0dcb3" />
       </value>
     </option>
     <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="7bc192" />
+        <option name="FOREGROUND" value="a0dcb3" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -280,7 +280,7 @@
     <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="89c49c" />
+        <option name="FOREGROUND" value="a0dcb3" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -322,7 +322,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="dab8e3" />
+        <option name="FOREGROUND" value="dccae3" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -370,7 +370,8 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="bcace3" />
+        <option name="FOREGROUND" value="dccae3" />
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -383,7 +384,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="71bd74" />
+        <option name="FOREGROUND" value="84bd86" />
       </value>
     </option>
     <option name="DEFAULT_TAG" baseAttributes="TEXT" />
@@ -881,7 +882,7 @@
     </option>
     <option name="KOTLIN_ABSTRACT_CLASS">
       <value>
-        <option name="FOREGROUND" value="89c49c" />
+        <option name="FOREGROUND" value="a0dbb3" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -889,7 +890,7 @@
     <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="KOTLIN_CONSTRUCTOR">
       <value>
-        <option name="FOREGROUND" value="7bc192" />
+        <option name="FOREGROUND" value="a0dcb3" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -932,7 +933,8 @@
     </option>
     <option name="KOTLIN_TYPE_ALIAS">
       <value>
-        <option name="FOREGROUND" value="9bc2a9" />
+        <option name="FOREGROUND" value="a0dcb3" />
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
