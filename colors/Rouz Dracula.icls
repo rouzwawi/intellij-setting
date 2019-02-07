@@ -19,7 +19,7 @@
     <option name="METHOD_SEPARATORS_COLOR" value="4d4d4d" />
     <option name="MODIFIED_LINES_COLOR" value="267580" />
     <option name="NOTIFICATION_BACKGROUND" value="5c5c42" />
-    <option name="READONLY_BACKGROUND" value="282821" />
+    <option name="READONLY_BACKGROUND" value="181703" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="363636" />
@@ -1532,7 +1532,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="f0f8ff" />
-        <option name="BACKGROUND" value="282828" />
+        <option name="BACKGROUND" value="2b2b28" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
