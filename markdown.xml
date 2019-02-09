@@ -1,0 +1,6 @@
+<application>
+  <component name="MarkdownApplicationSettings">
+    <MarkdownCssSettings StylesheetText=".markdown-body code,&#10;.markdown-body kbd,&#10;.markdown-body pre {&#10;  font-family: 'Input';&#10;}" />
+    <MarkdownPreviewSettings DefaultSplitLayout="Show editor only" />
+  </component>
+</application>

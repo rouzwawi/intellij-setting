@@ -7,6 +7,9 @@
       <option name="SHOW_FQ_TYPE_NAMES" value="true" />
     </Renderer>
   </component>
+  <component name="ViewsSettings">
+    <option name="HIDE_NULL_ARRAY_ELEMENTS" value="false" />
+  </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general />
