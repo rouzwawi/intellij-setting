@@ -32,6 +32,7 @@
       <mapping pattern="NOTICE" type="PLAIN_TEXT" />
       <mapping pattern="2016-10-05T14" type="PLAIN_TEXT" />
       <mapping pattern="http-router" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore-test" type="PLAIN_TEXT" />
       <mapping pattern="styx" type="PLAIN_TEXT" />
       <mapping pattern="Styx" type="PLAIN_TEXT" />
       <mapping pattern="creek-service" type="PLAIN_TEXT" />
