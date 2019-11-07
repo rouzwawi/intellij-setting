@@ -1,7 +1,6 @@
 <scheme name="Dark but Light" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="CONSOLE_FONT_NAME" value="Input" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="cae3d1" />
@@ -704,18 +703,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JS.BLOCK_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="bc9458" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="JS.DOC_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="bc9458" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="JS.DOC_TAG">
       <value>
         <option name="FONT_TYPE" value="2" />
@@ -727,9 +714,7 @@
     <option name="JS.GLOBAL_VARIABLE">
       <value />
     </option>
-    <option name="JS.INSTANCE_MEMBER_FUNCTION">
-      <value />
-    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="519f50" />
@@ -737,19 +722,8 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JS.LINE_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="bc9458" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="JS.LOCAL_VARIABLE">
       <value />
-    </option>
-    <option name="JS.NUMBER">
-      <value>
-        <option name="FOREGROUND" value="a5c261" />
-      </value>
     </option>
     <option name="JS.OPERATION_SIGN">
       <value>
