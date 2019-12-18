@@ -1,6 +1,6 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings StylesheetText=".markdown-body code,&#10;.markdown-body kbd,&#10;.markdown-body pre {&#10;  font-family: 'Input';&#10;}" />
+    <MarkdownCssSettings StylesheetUri="jar:file:/Users/rouz/Library/Application%20Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/182.4892.20/IntelliJ%20IDEA.app/Contents/plugins/markdown/lib/markdown.jar!/org/intellij/plugins/markdown/settings/darcula.css" StylesheetText=".markdown-body code,&#10;.markdown-body kbd,&#10;.markdown-body pre {&#10;  font-family: 'Input';&#10;}" />
     <MarkdownPreviewSettings DefaultSplitLayout="Show editor only" />
   </component>
 </application>
