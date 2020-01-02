@@ -155,7 +155,7 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff6b68" />
+        <option name="FOREGROUND" value="ffb9ba" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
@@ -171,6 +171,12 @@
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
         <option name="FOREGROUND" value="a6a6a6" />
+      </value>
+    </option>
+    <option name="CONSOLE_USER_INPUT">
+      <value>
+        <option name="FOREGROUND" value="9ad2a4" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
