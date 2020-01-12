@@ -17,6 +17,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="ngt" type="HTML" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="todos" type="PLAIN_TEXT" />
       <mapping pattern="broken-enum-specjson" type="PLAIN_TEXT" />
       <mapping pattern="java" type="PLAIN_TEXT" />
