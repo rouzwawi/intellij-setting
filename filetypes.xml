@@ -17,7 +17,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="ngt" type="HTML" />
-      <mapping ext="planout" type="JavaScript" />
       <mapping ext="jsonnet" type="Jsonnet file" />
       <mapping ext="libjsonnet" type="Jsonnet file" />
       <mapping pattern="styx" type="PLAIN_TEXT" />
@@ -50,7 +49,7 @@
       <mapping ext="processor" type="SPI" />
       <removed_mapping pattern=".planout" approved="true" type="JavaScript" />
       <removed_mapping pattern=".libjsonnet" approved="true" type="Jsonnet file" />
-      <removed_mapping ext="planout" approved="true" type="Python" />
+      <removed_mapping ext="planout" approved="true" type="JavaScript" />
     </extensionMap>
   </component>
 </application>
