@@ -19,6 +19,7 @@
       <mapping ext="ngt" type="HTML" />
       <mapping ext="jsonnet" type="Jsonnet file" />
       <mapping ext="libjsonnet" type="Jsonnet file" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="styx" type="PLAIN_TEXT" />
       <mapping pattern="2016-10-05T14" type="PLAIN_TEXT" />
       <mapping pattern="02-if-blocks" type="PLAIN_TEXT" />
