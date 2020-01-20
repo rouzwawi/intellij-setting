@@ -26,6 +26,7 @@
       <mapping pattern="notes" type="PLAIN_TEXT" />
       <mapping pattern="dashd" type="PLAIN_TEXT" />
       <mapping pattern="01-switch-no-blocks" type="PLAIN_TEXT" />
+      <mapping pattern="03-set-expression" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="todos" type="PLAIN_TEXT" />
       <mapping pattern="nodes" type="PLAIN_TEXT" />
@@ -34,6 +35,7 @@
       <mapping pattern=".gitignore-test" type="PLAIN_TEXT" />
       <mapping pattern="java" type="PLAIN_TEXT" />
       <mapping pattern="02-if-blocks" type="PLAIN_TEXT" />
+      <mapping pattern="script8-sets" type="PLAIN_TEXT" />
       <mapping pattern="NOTICE" type="PLAIN_TEXT" />
       <mapping pattern="2016-10-05T14" type="PLAIN_TEXT" />
       <mapping pattern="http-router" type="PLAIN_TEXT" />
