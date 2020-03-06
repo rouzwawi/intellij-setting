@@ -24,8 +24,8 @@
       <mapping pattern="2016-10-05T14" type="PLAIN_TEXT" />
       <mapping pattern="nodes" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="SERVICE" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore-test" type="PLAIN_TEXT" />
-      <mapping pattern="http-router" type="PLAIN_TEXT" />
       <mapping pattern="Styx" type="PLAIN_TEXT" />
       <mapping pattern="01-if-no-blocks" type="PLAIN_TEXT" />
       <mapping pattern="01-switch-no-blocks" type="PLAIN_TEXT" />
@@ -40,7 +40,7 @@
       <mapping pattern="02-switch-blocks" type="PLAIN_TEXT" />
       <mapping pattern="gitignore-snippet" type="PLAIN_TEXT" />
       <mapping pattern="dashd" type="PLAIN_TEXT" />
-      <mapping pattern="SERVICE" type="PLAIN_TEXT" />
+      <mapping pattern="http-router" type="PLAIN_TEXT" />
       <mapping pattern="02-if-blocks" type="PLAIN_TEXT" />
       <mapping ext="input" type="PLAIN_TEXT" />
       <mapping ext="glslf" type="PLAIN_TEXT" />
