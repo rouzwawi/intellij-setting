@@ -28,6 +28,15 @@
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JAVA.annotation.hints" />
+        <option value="JAVA.chain.hints" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseOneLineMethods" value="false" />
   </component>
