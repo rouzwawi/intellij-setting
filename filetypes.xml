@@ -14,7 +14,7 @@
       <mapping ext="jspx" type="XML" />
     </extensionMap>
   </component>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="ngt" type="HTML" />
       <mapping ext="jsonnet" type="Jsonnet file" />
@@ -54,9 +54,11 @@
       <mapping ext="input" type="PLAIN_TEXT" />
       <mapping ext="marker" type="PLAIN_TEXT" />
       <mapping ext="processor" type="SPI" />
-      <removed_mapping pattern=".planout" approved="true" type="JavaScript" />
-      <removed_mapping pattern=".libjsonnet" approved="true" type="Jsonnet file" />
+      <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="planout" approved="true" type="JavaScript" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".libjsonnet" approved="true" type="Jsonnet file" />
+      <removed_mapping pattern=".planout" approved="true" type="JavaScript" />
     </extensionMap>
   </component>
 </application>
