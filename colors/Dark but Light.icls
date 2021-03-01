@@ -1,8 +1,8 @@
 <scheme name="Dark but Light" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="CONSOLE_FONT_SIZE" value="10" />
+  <option name="CONSOLE_LINE_SPACING" value="0.8" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="cae3d1" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -229,7 +229,7 @@
       <value>
         <option name="FOREGROUND" value="589df6" />
         <option name="EFFECT_COLOR" value="c1d8f7" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
