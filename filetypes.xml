@@ -52,6 +52,7 @@
       <mapping ext="input" type="PLAIN_TEXT" />
       <mapping ext="marker" type="PLAIN_TEXT" />
       <mapping ext="processor" type="SPI" />
+      <removed_mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="planout" approved="true" type="JavaScript" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".libjsonnet" approved="true" type="Jsonnet file" />
