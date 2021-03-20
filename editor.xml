@@ -12,8 +12,9 @@
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="12" />
-    <option name="FONT_FAMILY" value="Source Code Pro" />
+    <option name="FONT_SIZE" value="10" />
+    <option name="FONT_FAMILY" value="Input" />
+    <option name="LINE_SPACING" value="1.4" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
@@ -33,9 +34,10 @@
       <set>
         <option value="JAVA.annotation.hints" />
         <option value="JAVA.chain.hints" />
+        <option value="JAVA.java.implicit.types" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="java.implicit.types" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseOneLineMethods" value="false" />
