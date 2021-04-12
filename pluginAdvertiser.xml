@@ -833,8 +833,8 @@
         <entry key="*.pb">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.github.kkkiio.protobuf.support" />
-              <option name="myPluginName" value="Protobuf Support" />
+              <option name="myPluginId" value="idea.plugin.protoeditor" />
+              <option name="myPluginName" value="Protocol Buffer Editor" />
             </plugin>
           </value>
         </entry>
@@ -940,8 +940,8 @@
         <entry key="*.proto">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.github.kkkiio.protobuf.support" />
-              <option name="myPluginName" value="Protobuf Support" />
+              <option name="myPluginId" value="idea.plugin.protoeditor" />
+              <option name="myPluginName" value="Protocol Buffer Editor" />
             </plugin>
           </value>
         </entry>
@@ -1137,8 +1137,8 @@
         <entry key="*.textproto">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.github.kkkiio.protobuf.support" />
-              <option name="myPluginName" value="Protobuf Support" />
+              <option name="myPluginId" value="idea.plugin.protoeditor" />
+              <option name="myPluginName" value="Protocol Buffer Editor" />
             </plugin>
           </value>
         </entry>
