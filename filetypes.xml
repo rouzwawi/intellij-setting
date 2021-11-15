@@ -20,10 +20,10 @@
       <mapping pattern="script0" type="PLAIN_TEXT" />
       <mapping pattern="dockercitest" type="PLAIN_TEXT" />
       <mapping pattern="02-switch-blocks" type="PLAIN_TEXT" />
-      <mapping pattern="03-set-expression" type="PLAIN_TEXT" />
       <mapping pattern="nodes" type="PLAIN_TEXT" />
-      <mapping pattern="styx" type="PLAIN_TEXT" />
+      <mapping pattern="03-set-expression" type="PLAIN_TEXT" />
       <mapping pattern="script8-arrays" type="PLAIN_TEXT" />
+      <mapping pattern="styx" type="PLAIN_TEXT" />
       <mapping pattern="2016-10-05T14" type="PLAIN_TEXT" />
       <mapping pattern="notes" type="PLAIN_TEXT" />
       <mapping pattern="http-router" type="PLAIN_TEXT" />
@@ -43,14 +43,13 @@
       <mapping pattern="Styx" type="PLAIN_TEXT" />
       <mapping pattern="01-switch-no-blocks" type="PLAIN_TEXT" />
       <mapping pattern="service" type="PLAIN_TEXT" />
-      <mapping pattern="ignore" type="PLAIN_TEXT" />
       <mapping pattern="script8-sets" type="PLAIN_TEXT" />
+      <mapping pattern="ignore" type="PLAIN_TEXT" />
       <mapping ext="planout" type="PLAIN_TEXT" />
       <mapping ext="glslf" type="PLAIN_TEXT" />
       <mapping ext="input" type="PLAIN_TEXT" />
       <mapping ext="marker" type="PLAIN_TEXT" />
       <mapping ext="processor" type="SPI" />
-      <mapping pattern="Kptfile" type="YAML" />
       <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="planout" approved="true" type="JavaScript" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
