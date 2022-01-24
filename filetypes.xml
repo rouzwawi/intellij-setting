@@ -17,50 +17,48 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="ngt" type="HTML" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="notes" type="PLAIN_TEXT" />
-      <mapping pattern="script9-sets-expect" type="PLAIN_TEXT" />
-      <mapping pattern="creek-service" type="PLAIN_TEXT" />
       <mapping pattern="script0" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignore-test" type="PLAIN_TEXT" />
-      <mapping pattern="java" type="PLAIN_TEXT" />
-      <mapping pattern="03-set-expression" type="PLAIN_TEXT" />
-      <mapping pattern="SERVICE" type="PLAIN_TEXT" />
-      <mapping pattern="http-router" type="PLAIN_TEXT" />
-      <mapping pattern="02-if-blocks" type="PLAIN_TEXT" />
-      <mapping pattern="script8-arrays" type="PLAIN_TEXT" />
-      <mapping pattern="2016-10-05T14" type="PLAIN_TEXT" />
-      <mapping pattern="dashd" type="PLAIN_TEXT" />
       <mapping pattern="dockercitest" type="PLAIN_TEXT" />
-      <mapping pattern="NOTICE" type="PLAIN_TEXT" />
-      <mapping pattern="Styx" type="PLAIN_TEXT" />
-      <mapping pattern="01-if-no-blocks" type="PLAIN_TEXT" />
       <mapping pattern="02-switch-blocks" type="PLAIN_TEXT" />
-      <mapping pattern="script8-sets" type="PLAIN_TEXT" />
-      <mapping pattern="gitignore-snippet" type="PLAIN_TEXT" />
-      <mapping pattern="ignore" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="broken-enum-specjson" type="PLAIN_TEXT" />
+      <mapping pattern="03-set-expression" type="PLAIN_TEXT" />
       <mapping pattern="nodes" type="PLAIN_TEXT" />
       <mapping pattern="styx" type="PLAIN_TEXT" />
-      <mapping pattern="service" type="PLAIN_TEXT" />
+      <mapping pattern="script8-arrays" type="PLAIN_TEXT" />
+      <mapping pattern="2016-10-05T14" type="PLAIN_TEXT" />
+      <mapping pattern="notes" type="PLAIN_TEXT" />
+      <mapping pattern="http-router" type="PLAIN_TEXT" />
+      <mapping pattern="creek-service" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore-test" type="PLAIN_TEXT" />
+      <mapping pattern="dashd" type="PLAIN_TEXT" />
+      <mapping pattern="SERVICE" type="PLAIN_TEXT" />
+      <mapping pattern="NOTICE" type="PLAIN_TEXT" />
+      <mapping pattern="gitignore-snippet" type="PLAIN_TEXT" />
+      <mapping pattern="02-if-blocks" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="01-if-no-blocks" type="PLAIN_TEXT" />
+      <mapping pattern="broken-enum-specjson" type="PLAIN_TEXT" />
+      <mapping pattern="script9-sets-expect" type="PLAIN_TEXT" />
       <mapping pattern="todos" type="PLAIN_TEXT" />
+      <mapping pattern="java" type="PLAIN_TEXT" />
+      <mapping pattern="Styx" type="PLAIN_TEXT" />
       <mapping pattern="01-switch-no-blocks" type="PLAIN_TEXT" />
+      <mapping pattern="service" type="PLAIN_TEXT" />
+      <mapping pattern="ignore" type="PLAIN_TEXT" />
+      <mapping pattern="script8-sets" type="PLAIN_TEXT" />
       <mapping ext="planout" type="PLAIN_TEXT" />
       <mapping ext="glslf" type="PLAIN_TEXT" />
       <mapping ext="input" type="PLAIN_TEXT" />
       <mapping ext="marker" type="PLAIN_TEXT" />
       <mapping ext="processor" type="SPI" />
       <mapping pattern=".analysis_options" type="YAML" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="planout" approved="true" type="JavaScript" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".libjsonnet" approved="true" type="Jsonnet file" />
       <removed_mapping pattern=".planout" approved="true" type="JavaScript" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="jsonnet" type="Jsonnet file" />
       <mapping ext="libjsonnet" type="Jsonnet file" />
+      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
