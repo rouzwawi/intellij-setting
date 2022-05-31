@@ -38,4 +38,7 @@
   <component name="JavaCodeFoldingSettings">
     <option name="collapseOneLineMethods" value="false" />
   </component>
+  <component name="JetEditorOptions">
+    <option name="donTShowConversionDialog" value="true" />
+  </component>
 </application>
