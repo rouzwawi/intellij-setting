@@ -1,8 +1,7 @@
 <scheme name="Dark but Light" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="0.8" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="cae3d1" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -19,6 +18,7 @@
     <option name="GUTTER_BACKGROUND" value="" />
     <option name="INDENT_GUIDE" value="e8e8e8" />
     <option name="LINE_NUMBERS_COLOR" value="888888" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="0" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="c4dde3" />
     <option name="NOTIFICATION_BACKGROUND" value="" />
