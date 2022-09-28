@@ -5,6 +5,7 @@
         <option name="suppressed">
           <set>
             <option value="EndSong.id" />
+            <option value="we will just ack" />
           </set>
         </option>
       </SuppressingContext>
