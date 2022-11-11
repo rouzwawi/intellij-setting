@@ -28,12 +28,19 @@
   <component name="InlayHintsSettings">
     <option name="disabledHintProviderIds">
       <set>
+        <option value="JAVA.JavaLens" />
         <option value="JAVA.annotation.hints" />
         <option value="JAVA.chain.hints" />
-        <option value="JAVA.java.implicit.types" />
       </set>
     </option>
     <option name="lastViewedProviderKeyId" value="java.implicit.types" />
+    <settingsMapElement>
+      <JAVA.annotation.hints>
+        <Settings>
+          <option name="showInferred" value="true" />
+        </Settings>
+      </JAVA.annotation.hints>
+    </settingsMapElement>
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseOneLineMethods" value="false" />
