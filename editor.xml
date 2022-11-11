@@ -8,6 +8,22 @@
     <EXCLUDED_PACKAGE NAME="com.google.bigtable.repackaged" />
     <EXCLUDED_PACKAGE NAME="jersey.repackaged" />
   </component>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="inheritors" value="Default" />
+        <entry key="problems" value="Default" />
+        <entry key="references" value="Default" />
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="inheritors" />
+        <option value="references" />
+      </set>
+    </option>
+  </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
@@ -33,11 +49,11 @@
         <option value="JAVA.chain.hints" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="java.implicit.types" />
+    <option name="lastViewedProviderKeyId" value="kotlin.kotlin.values.hints" />
     <settingsMapElement>
       <JAVA.annotation.hints>
         <Settings>
-          <option name="showInferred" value="true" />
+          <option name="showExternal" value="false" />
         </Settings>
       </JAVA.annotation.hints>
     </settingsMapElement>
