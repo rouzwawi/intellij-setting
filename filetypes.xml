@@ -51,13 +51,13 @@
       <mapping ext="glslf" type="PLAIN_TEXT" />
       <mapping ext="input" type="PLAIN_TEXT" />
       <mapping ext="marker" type="PLAIN_TEXT" />
+      <mapping ext="txt" type="PLAIN_TEXT" />
       <mapping ext="mql" type="PLAIN_TEXT" />
       <mapping ext="processor" type="SPI" />
       <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="planout" approved="true" type="JavaScript" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".libjsonnet" approved="true" type="Jsonnet file" />
       <removed_mapping pattern=".planout" approved="true" type="JavaScript" />
       <mapping ext="jsonnet" type="Jsonnet file" />
