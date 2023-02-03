@@ -53,6 +53,7 @@
       <mapping ext="marker" type="PLAIN_TEXT" />
       <mapping ext="mql" type="PLAIN_TEXT" />
       <mapping ext="processor" type="SPI" />
+      <mapping pattern="Kptfile" type="YAML" />
       <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="planout" approved="true" type="JavaScript" />
