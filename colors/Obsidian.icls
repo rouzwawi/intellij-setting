@@ -8,6 +8,7 @@
     <option name="CARET_COLOR" value="999999" />
     <option name="CARET_ROW_COLOR" value="2f393c" />
     <option name="CONSOLE_BACKGROUND_KEY" value="293134" />
+    <option name="DOCUMENTATION_COLOR" value="3c3f41" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
@@ -26,15 +27,17 @@
     <option name="GUTTER_BACKGROUND" value="293134" />
     <option name="INDENT_GUIDE" value="804000" />
     <option name="LINE_NUMBERS_COLOR" value="81969a" />
+    <option name="LOOKUP_COLOR" value="3c3f41" />
     <option name="METHOD_SEPARATORS_COLOR" value="2f393c" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
-    <option name="SELECTED_INDENT_GUIDE" value="e0e2e4" />
+    <option name="SELECTED_INDENT_GUIDE" value="b7b7b8" />
     <option name="SELECTED_TEARLINE_COLOR" value="804000" />
     <option name="SELECTION_BACKGROUND" value="804000" />
     <option name="SELECTION_FOREGROUND" value="e0e2e4" />
     <option name="TEARLINE_COLOR" value="2f393c" />
+    <option name="VISUAL_INDENT_GUIDE" value="e3e3e3" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
@@ -598,7 +601,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a8c023" />
+        <option name="FOREGROUND" value="e5d510" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="a74c0" />
       </value>
