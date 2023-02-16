@@ -115,6 +115,12 @@
         <option name="FOREGROUND" value="7d8c93" />
       </value>
     </option>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="6afbff" />
+        <option name="EFFECT_COLOR" value="205a4e" />
+      </value>
+    </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
@@ -547,6 +553,13 @@
     <option name="PY.SELF_PARAMETER">
       <value>
         <option name="FOREGROUND" value="a082bd" />
+      </value>
+    </option>
+    <option name="RUNTIME_ERROR">
+      <value>
+        <option name="EFFECT_COLOR" value="205a4e" />
+        <option name="ERROR_STRIPE_COLOR" value="cf5b56" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
