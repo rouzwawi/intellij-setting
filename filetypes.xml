@@ -47,11 +47,11 @@
       <mapping pattern="service" type="PLAIN_TEXT" />
       <mapping pattern="todos" type="PLAIN_TEXT" />
       <mapping pattern="01-switch-no-blocks" type="PLAIN_TEXT" />
-      <mapping ext="planout" type="PLAIN_TEXT" />
-      <mapping ext="glslf" type="PLAIN_TEXT" />
       <mapping ext="input" type="PLAIN_TEXT" />
-      <mapping ext="marker" type="PLAIN_TEXT" />
+      <mapping ext="planout" type="PLAIN_TEXT" />
       <mapping ext="mql" type="PLAIN_TEXT" />
+      <mapping ext="marker" type="PLAIN_TEXT" />
+      <mapping ext="glslf" type="PLAIN_TEXT" />
       <mapping ext="processor" type="SPI" />
       <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
