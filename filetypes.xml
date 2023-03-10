@@ -51,6 +51,7 @@
       <mapping ext="planout" type="PLAIN_TEXT" />
       <mapping ext="mql" type="PLAIN_TEXT" />
       <mapping ext="marker" type="PLAIN_TEXT" />
+      <mapping ext="mdx" type="PLAIN_TEXT" />
       <mapping ext="glslf" type="PLAIN_TEXT" />
       <mapping ext="processor" type="SPI" />
       <mapping pattern=".analysis_options" type="YAML" />
