@@ -56,6 +56,7 @@
       <mapping ext="processor" type="SPI" />
       <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="mdx" approved="true" type="MDX" />
       <removed_mapping ext="planout" approved="true" type="JavaScript" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern=".libjsonnet" approved="true" type="Jsonnet file" />
