@@ -6,6 +6,8 @@
         <option value="com.intellij.bigdatatools" />
         <option value="aws.toolkit" />
         <option value="org.intellij.plugins.postcss" />
+        <option value="dev.nx.console" />
+        <option value="org.jetbrains.plugins.stylus" />
       </list>
     </option>
   </component>
